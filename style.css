@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  width:70%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+header > h1{
+   padding: 0px;
+}
+
+nav a{
+ background-color: grey;
+}
+
+#featured-property{
+  width: 70%;
+  margin: 50px auto;
+}
+
+figcaption{
+  text-align: center;
+}
+#featured-property p{
+  width: 70%;
+  margin: 35px auto;
+ 
+}
+
+#details{
+  background-color: red;
+}
+
+#details > div{
+  display: inline-block;
+  padding-left: 150px;
+}
